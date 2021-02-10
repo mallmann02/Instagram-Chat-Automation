@@ -1,3 +1,7 @@
+<h1 align="center">
+ <img width=150 src="https://developers.google.com/web/tools/images/puppeteer.png"/>
+</h1>
+
 <h1 align="left"> Instagram Chat Automation </h1>
 
 <blockquote> Browser automation in NodeJS using the Puppeteer librarie to do the normal user flow in Instagram web page until a message sending </blockquote>
